@@ -1,6 +1,9 @@
 <img src="images/header.jpg" width="1184" alt="">
 <img src="raw/images/header.jpg" width="1184" alt="">
 
+# Flamingo Design System 🦩
+[![Medium Article](https://img.shields.io/badge/Story-Medium-brightgreen?logo=medium&color=a9eed1)](https://proandroiddev.com/building-a-modern-design-system-using-jetpack-compose-8bd8084e8b0c)
+
 It is an Android implementation of the Flamingo Design System.
 
 ## It Consists Of:
